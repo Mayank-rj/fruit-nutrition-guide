@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fruit-nutrition-guide/static/css/main.8d03d0c0.css",
+    "main.js": "/fruit-nutrition-guide/static/js/main.333fe77e.js",
+    "index.html": "/fruit-nutrition-guide/index.html",
+    "main.8d03d0c0.css.map": "/fruit-nutrition-guide/static/css/main.8d03d0c0.css.map",
+    "main.333fe77e.js.map": "/fruit-nutrition-guide/static/js/main.333fe77e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d03d0c0.css",
+    "static/js/main.333fe77e.js"
+  ]
+}
